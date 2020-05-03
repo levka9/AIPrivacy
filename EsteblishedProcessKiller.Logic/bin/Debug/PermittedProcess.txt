@@ -1,8 +1,0 @@
-﻿Telegram
-Skype
-Postman
-devenv
-chrome
-svchost
-System
-Microsoft.SqlServer.IntegrationServices.WorkerAgentServiceHost

@@ -1,0 +1,477 @@
+2020-04-01 00:00:05.5589|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:00:05.5589|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:00:05.5589|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:00:05.6499|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:00:05.6539|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:00:05.6539|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:00:05.6539|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:00:15.5586|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:00:15.5586|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:00:15.5586|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:00:15.6466|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:00:15.6516|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:00:15.6516|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:00:15.6516|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:00:25.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:00:25.5585|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:00:25.5585|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:00:25.6595|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:00:25.6595|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:00:25.6675|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:00:25.6675|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:00:35.5587|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:00:35.5587|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:00:35.5587|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:00:35.6497|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:00:35.6537|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:00:35.6537|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:00:35.6537|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:00:45.5594|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:00:45.5594|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:00:45.5594|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:00:45.6504|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:00:45.6504|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:00:45.6504|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:00:45.6504|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:00:55.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:00:55.5585|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:00:55.5585|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:00:55.6575|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:00:55.6575|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:00:55.6665|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:00:55.6665|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:01:05.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:01:05.5585|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:01:05.5585|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:01:05.6575|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:01:05.6575|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:01:05.6695|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:01:05.6695|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:01:15.5594|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:01:15.5594|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:01:15.5594|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:01:15.6594|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:01:15.6594|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:01:15.6694|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:01:15.6694|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:01:25.5593|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:01:25.5593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:01:25.5593|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:01:25.6523|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:01:25.6523|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:01:25.6523|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:01:25.6523|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:01:35.5586|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:01:35.5586|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:01:35.5586|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:01:35.6476|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:01:35.6516|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:01:35.6516|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:01:35.6516|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:01:45.5590|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:01:45.5590|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:01:45.5590|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:01:45.6490|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:01:45.6540|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:01:45.6540|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:01:45.6540|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:01:55.5591|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:01:55.5591|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:01:55.5591|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:01:55.6511|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:01:55.6511|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:01:55.6511|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:01:55.6701|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:02:05.5588|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:02:05.5588|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:02:05.5588|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:02:05.6518|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:02:05.6518|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:02:05.6518|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:02:05.6518|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:02:15.5587|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:02:15.5587|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:02:15.5587|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:02:15.6457|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:02:15.6457|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:02:15.6537|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:02:15.6537|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:02:25.5589|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:02:25.5589|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:02:25.5589|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:02:25.6909|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:02:25.6909|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:02:25.6989|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:02:25.6989|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:02:35.5587|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:02:35.5587|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:02:35.5587|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:02:35.6977|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:02:35.6977|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:02:35.6977|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:02:35.6977|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:02:45.5594|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:02:45.5594|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:02:45.5594|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:02:45.6904|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:02:45.6904|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:02:45.6994|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:02:45.6994|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:02:55.5592|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:02:55.5592|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:02:55.5592|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:02:55.6919|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:02:55.6919|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:02:55.7009|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:02:55.7009|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:03:05.5593|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:03:05.5593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:03:05.5593|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:03:05.6913|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:03:05.6913|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:03:05.7003|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:03:05.7003|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:03:15.5594|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:03:15.5594|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:03:15.5594|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:03:15.6934|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:03:15.6984|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:03:15.6984|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:03:15.6984|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:03:25.5593|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:03:25.5593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:03:25.5593|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:03:25.6933|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:03:25.6973|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:03:25.6973|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:03:25.6973|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:03:35.5591|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:03:35.5591|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:03:35.5591|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:03:35.6921|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:03:35.6971|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:03:35.6971|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:03:35.6971|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:03:45.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:03:45.5585|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:03:45.5585|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:03:45.7125|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:03:45.7175|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:03:45.7175|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:03:45.7175|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:03:55.5592|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:03:55.5592|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:03:55.5592|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:03:55.7122|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:03:55.7172|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:03:55.7172|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:03:55.7172|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:04:05.5591|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:04:05.5591|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:04:05.5591|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:04:05.7029|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:04:05.7029|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:04:05.7129|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:04:05.7129|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:04:15.5594|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:04:15.5594|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:04:15.5594|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:04:15.6954|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:04:15.7004|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:04:15.7004|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:04:15.7004|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:04:25.5588|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:04:25.5588|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:04:25.5588|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:04:25.7110|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:04:25.7150|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:04:25.7150|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:04:25.7150|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:04:35.5602|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:04:35.5602|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:04:35.5602|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:04:35.7073|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:04:35.7073|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:04:35.7163|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:04:35.7163|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:04:45.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:04:45.5585|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:04:45.5585|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:04:45.7065|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:04:45.7065|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:04:45.7165|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:04:45.7165|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:04:55.5592|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:04:55.5592|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:04:55.5592|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:04:55.7222|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:04:55.7222|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:04:55.7322|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:04:55.7322|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:05:05.5588|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:05:05.5588|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:05:05.5588|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:05:05.7128|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:05:05.7128|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:05:05.7128|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:05:05.7128|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:05:15.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:05:15.5585|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:05:15.5585|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:05:15.7095|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:05:15.7135|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:05:15.7135|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:05:15.7135|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:05:25.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:05:25.5585|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:05:25.5585|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:05:25.7095|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:05:25.7145|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:05:25.7145|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:05:25.7145|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:05:35.5590|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:05:35.5590|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:05:35.5590|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:05:35.7110|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:05:35.7160|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:05:35.7160|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:05:35.7290|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:05:45.5586|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:05:45.5586|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:05:45.5586|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:05:45.7176|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:05:45.7176|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:05:45.7176|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:05:45.7316|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:05:55.5590|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:05:55.5590|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:05:55.5590|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:05:55.7150|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:05:55.7150|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:05:55.7150|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:05:55.7150|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:06:05.5593|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:06:05.5593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:06:05.5593|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:06:05.6993|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:06:05.6993|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:06:05.6993|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:06:05.7133|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:06:15.5590|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:06:15.5590|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:06:15.5590|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:06:15.7100|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:06:15.7150|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:06:15.7150|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:06:15.7150|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:06:25.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:06:25.5585|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:06:25.5585|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:06:25.7135|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:06:25.7135|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:06:25.7135|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:06:25.7135|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:06:35.5589|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:06:35.5589|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:06:35.5589|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:06:35.7119|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:06:35.7169|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:06:35.7169|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:06:35.7169|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:06:45.5588|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:06:45.5588|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:06:45.5588|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:06:45.6989|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:06:45.6989|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:06:45.6989|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:06:45.6989|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:06:55.5588|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:06:55.5588|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:06:55.5588|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:06:55.7078|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:06:55.7078|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:06:55.7168|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:06:55.7168|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:07:05.5592|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:07:05.5592|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:07:05.5592|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:07:05.7342|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:07:05.7342|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:07:05.7342|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:07:05.7482|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:07:15.5593|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:07:15.5593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:07:15.5593|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:07:15.7103|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:07:15.7153|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:07:15.7153|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:07:15.7153|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:07:25.5587|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:07:25.5587|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:07:25.5587|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:07:25.7017|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:07:25.7017|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:07:25.7017|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:07:25.7147|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:07:35.5594|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:07:35.5594|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:07:35.5594|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:07:35.7024|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:07:35.7024|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:07:35.7024|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:07:35.7154|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:07:45.5588|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:07:45.5588|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:07:45.5588|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:07:45.7058|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:07:45.7058|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:07:45.7178|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:07:45.7178|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:07:55.5588|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:07:55.5588|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:07:55.5588|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:07:55.7058|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:07:55.7058|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:07:55.7149|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:07:55.7149|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:08:05.5590|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:08:05.5590|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:08:05.5590|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:08:05.7100|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:08:05.7150|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:08:05.7150|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:08:05.7150|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:08:15.5593|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:08:15.5593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:08:15.5593|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:08:15.7153|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:08:15.7153|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:08:15.7153|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:08:15.7313|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:08:25.5586|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:08:25.5586|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:08:25.5586|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:08:25.7013|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:08:25.7013|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:08:25.7013|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:08:25.7143|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:08:35.5590|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:08:35.5590|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:08:35.5590|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:08:35.7080|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:08:35.7130|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:08:35.7130|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:08:35.7130|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:08:45.5591|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:08:45.5591|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:08:45.5591|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:08:45.7051|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:08:45.7051|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:08:45.7151|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:08:45.7151|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:08:55.5587|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:08:55.5587|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:08:55.5587|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:08:55.6927|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:08:55.6927|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:08:55.7007|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:08:55.7007|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:09:05.5590|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:09:05.5590|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:09:05.5590|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:09:05.6920|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:09:05.6920|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:09:05.7010|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:09:05.7010|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:09:15.5594|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:09:15.5594|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:09:15.5594|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:09:15.7360|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:09:15.7360|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:09:15.7450|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:09:15.7450|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:09:25.5587|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:09:25.5587|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:09:25.5587|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:09:25.7147|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:09:25.7147|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:09:25.7147|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:09:25.7287|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:09:35.5595|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:09:35.5595|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:09:35.5595|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:09:35.6930|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:09:35.6971|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:09:35.6971|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:09:35.6971|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:09:45.5593|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:09:45.5593|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:09:45.5593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:09:45.7143|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:09:45.7143|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:09:45.7143|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:09:45.7283|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:09:55.5591|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:09:55.5591|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:09:55.5591|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:09:55.6941|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:09:55.6991|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:09:55.6991|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:09:55.6991|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:10:05.5589|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:10:05.5589|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:10:05.5589|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:10:05.7049|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:10:05.7049|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:10:05.7139|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:10:05.7139|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:10:15.5593|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:10:15.5593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:10:15.5593|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:10:15.7113|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:10:15.7163|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:10:15.7163|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:10:15.7163|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:10:25.5585|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:10:25.5755|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:10:25.5755|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:10:25.7175|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:10:25.7175|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:10:25.7175|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:10:25.7295|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:10:35.5597|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:10:35.5597|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:10:35.5597|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:10:35.7117|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:10:35.7157|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:10:35.7157|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:10:35.7157|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:10:45.5740|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:10:45.5740|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:10:45.5740|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:10:45.7084|ERROR|EsteblishedProcessKiller.Logger.LogHelper|ProcessInfo - Run: Value was either too large or too small for an Int16.
+2020-04-01 00:10:45.7084|ERROR|Quartz.Core.JobRunShell|Job DEFAULT.AIPrivacy threw an unhandled Exception: 
+2020-04-01 00:10:45.7261|ERROR|Quartz.Core.ErrorLogger|Job DEFAULT.AIPrivacy threw an exception.
+2020-04-01 00:10:45.7301|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction
+2020-04-01 00:12:50.2007|INFO|Quartz.Impl.StdSchedulerFactory|Default Quartz.NET properties loaded from embedded resource file
+2020-04-01 00:12:50.5139|DEBUG|Quartz.Simpl.TaskSchedulingThreadPool|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2020-04-01 00:12:50.5296|INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2020-04-01 00:12:50.5503|INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler v.3.0.7.0 created.
+2020-04-01 00:12:50.5503|INFO|Quartz.Simpl.RAMJobStore|RAMJobStore initialized.
+2020-04-01 00:12:50.5670|INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-04-01 00:12:50.5670|INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'DefaultQuartzScheduler' initialized
+2020-04-01 00:12:50.5670|INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.0.7.0
+2020-04-01 00:12:50.5923|INFO|Quartz.Core.QuartzScheduler|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-01 00:12:50.5923|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 0 triggers
+2020-04-01 00:12:50.6203|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:12:50.6203|DEBUG|Quartz.Simpl.SimpleJobFactory|Producing instance of Job 'DEFAULT.AIPrivacy', class=EsteblishedProcessKiller.Logic.KillProcess
+2020-04-01 00:12:50.6443|DEBUG|Quartz.Core.QuartzSchedulerThread|Batch acquisition of 1 triggers
+2020-04-01 00:12:50.6593|DEBUG|Quartz.Core.JobRunShell|Calling Execute on job DEFAULT.AIPrivacy
+2020-04-01 00:12:50.9173|DEBUG|Quartz.Core.JobRunShell|Trigger instruction : NoInstruction

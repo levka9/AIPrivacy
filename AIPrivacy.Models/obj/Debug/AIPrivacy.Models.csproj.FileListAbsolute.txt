@@ -1,0 +1,11 @@
+E:\MyDevelopment\AIPrivacy\AIPrivacy.Models\bin\Debug\AIPrivacy.Models.dll
+E:\MyDevelopment\AIPrivacy\AIPrivacy.Models\bin\Debug\AIPrivacy.Models.pdb
+E:\MyDevelopment\AIPrivacy\AIPrivacy.Models\obj\Debug\AIPrivacy.Models.csprojAssemblyReference.cache
+E:\MyDevelopment\AIPrivacy\AIPrivacy.Models\obj\Debug\AIPrivacy.Models.csproj.CoreCompileInputs.cache
+E:\MyDevelopment\AIPrivacy\AIPrivacy.Models\obj\Debug\AIPrivacy.Models.dll
+E:\MyDevelopment\AIPrivacy\AIPrivacy.Models\obj\Debug\AIPrivacy.Models.pdb
+D:\AIPrivacy\AIPrivacy.Models\bin\Debug\AIPrivacy.Models.dll
+D:\AIPrivacy\AIPrivacy.Models\bin\Debug\AIPrivacy.Models.pdb
+D:\AIPrivacy\AIPrivacy.Models\obj\Debug\AIPrivacy.Models.dll
+D:\AIPrivacy\AIPrivacy.Models\obj\Debug\AIPrivacy.Models.pdb
+D:\AIPrivacy\AIPrivacy.Models\obj\Debug\AIPrivacy.Models.csprojAssemblyReference.cache

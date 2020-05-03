@@ -1,0 +1,34 @@
+﻿Telegram
+Skype
+Postman
+SourceTree
+Ssms		// Microsoft managment studio
+WINWORD		// microsoft word
+Code		// studio code
+node		// angular
+iisexpress	// iis
+dotnet		// dotnet process
+devenv		// visual studio
+ekrn		// qbtorrents
+mstsc		// RDP
+javaw		// Arduino
+FoxitReader 	// FoxitReader
+MsMpEng 	// Windows defender
+SearchUI		// Windows search 
+utorrentie
+uTorrent
+AcroRd32
+EXCEL
+WhatsApp
+sqlservr 		// 
+FortiSSLVPNdaemon
+lsass 
+OneDrive 
+OUTLOOK
+OfficeClickToRun
+firefox
+WinSCP
+chrome
+svchost
+System
+Microsoft.SqlServer.IntegrationServices.WorkerAgentServiceHost
