@@ -1,0 +1,10 @@
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\bin\Debug\EsteblishedProcessKiller.Logger.dll
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\bin\Debug\EsteblishedProcessKiller.Logger.pdb
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\bin\Debug\NLog.dll
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\bin\Debug\NLog.xml
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\obj\Debug\EsteblishedProcessKiller.Logger.csprojAssemblyReference.cache
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\obj\Debug\EsteblishedProcessKiller.Logger.csproj.CoreCompileInputs.cache
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\obj\Debug\EsteblishedProcessKiller.Logger.csproj.CopyComplete
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\obj\Debug\EsteblishedProcessKiller.Logger.dll
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\obj\Debug\EsteblishedProcessKiller.Logger.pdb
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Logger\bin\Debug\NLog.config

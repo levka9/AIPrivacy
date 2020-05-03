@@ -1,0 +1,4 @@
+﻿WINWORD
+FoxitProxyServer_Socket_RD
+Microsoft.Photos
+PerfWatson2

@@ -1,0 +1,6 @@
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Models\bin\Debug\EsteblishedProcessKiller.Models.dll
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Models\bin\Debug\EsteblishedProcessKiller.Models.pdb
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Models\obj\Debug\EsteblishedProcessKiller.Models.csprojAssemblyReference.cache
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Models\obj\Debug\EsteblishedProcessKiller.Models.csproj.CoreCompileInputs.cache
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Models\obj\Debug\EsteblishedProcessKiller.Models.dll
+E:\MyDevelopment\EsteblishedProcessKiller\EsteblishedProcessKiller.Models\obj\Debug\EsteblishedProcessKiller.Models.pdb
